@@ -15,7 +15,6 @@ function App() {
     <Home/>
     <Estudios/>
     <Cursos/>
-    <UpButton/>
     <Proyectos/>
     <Contacto/>
     <UpButton/>

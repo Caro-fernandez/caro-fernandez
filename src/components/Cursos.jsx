@@ -3,13 +3,14 @@ import React from 'react';
 import platziLogo from '../assets/img/platzi.png';
 import codeaLogo from '../assets/img/codearock.png';
 import codecampLogo from '../assets/img/freecodecamp.png';
-import telefonicaLogo from '../assets/img/telefonica.jpg'
+import telefonicaLogo from '../assets/img/telefonica.jpg';
+import computerLogo from '../assets/img/Pink-desk-with-computer.jpg'
 //Slider:
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import '../assets/css/Cursos.css';
-import { Pagination } from 'swiper/modules';
+
 
 const Cursos =()=> {
   const cursitos = [
@@ -43,6 +44,11 @@ const Cursos =()=> {
     title: 'Fundación Telefónica - Conecta Empleo',
     name: 'Gestión de Proyectos con Metodologías Ágiles y Enfoques Lean',
     description:'Curso teórico sobre metodologías ágiles en la implementación de proyectos colaborativos; Manifiesto Ágil; artefactos y roles en Scrum;  método Kanban.'
+  },
+  {img: computerLogo,
+    title: 'Comenzando un nuevo curso',
+    name: 'en breve...',
+    description: 'Con muchas ganas de aprender :)'
   }
   ]
   return (
@@ -58,7 +64,7 @@ const Cursos =()=> {
              spaceBetween={20}
              slidesPerView={2}
              grabCursor={true}  
-             className='curso-slider'
+             className='curso-slider'           
             >
            
             {cursitos.map((cursito, index)=>{

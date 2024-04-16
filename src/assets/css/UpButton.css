@@ -14,3 +14,14 @@
     padding: 0;
     background: linear-gradient(180deg, #ffe202 26.71%, #fbb739 99.36%);
 }
+
+@media screen and (max-width:480px){
+    .up-btn-container{
+        padding: 0 1rem 0 1rem
+    }
+    .up{
+        width: 3rem;
+        height: 3rem;
+        margin-top: 0.5rem;
+    }
+}
