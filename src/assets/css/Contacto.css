@@ -1,0 +1,70 @@
+.form-wrapper{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 60vh;
+    margin-top: 12rem;
+}
+.form-title{
+    margin-left: 14rem; 
+}
+.contact-form{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex: 1;
+}
+.contact-form > form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+.contact-form .user{
+    width: 24rem;
+    height: 2rem;
+    padding: 0.3rem;
+    outline: none;
+    border: 2px solid var(--orange);
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea{
+    height: 5rem!important;
+}
+.enviado{
+    width: 22rem;
+    height: auto;
+    padding: 0.8rem;
+    border: 2px solid var(--blueCard);
+    border-radius: 8px;
+    font-size: 22px;
+    box-shadow: var(--boxShadow);
+    display: block;
+}
+@media screen and (max-width:480px){
+    .form-wrapper{
+        flex-direction: column;
+        padding: 0px;
+        height: 90%;
+        margin-top: 10px;  
+    }
+    .form-title{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .subtitle{
+        font-size: 2rem;
+    }
+    .contact-form > form{
+        gap: 1.5rem;
+    }
+    .contact-form > user{
+        font-size: 14px;
+    }
+    .enviado{
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
