@@ -16,7 +16,7 @@ export default function Footer() {
            <a href="https://github.com/Caro-fernandez" className='icon'> <UilGithub  size='2.5rem'/> </a>    
         </div>
         <div className='copyright'>
-           <p className='footer-p'>  <UilCopyright  size='1.8rem' className='icon'/>  2024 Carolina Fernández </p>
+           <p className='footer-p'>  <UilCopyright  size='1.6rem' className='icon'/>  2024 Carolina Fernández </p>
         </div>
        </div>
   )

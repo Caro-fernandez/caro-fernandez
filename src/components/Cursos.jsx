@@ -47,7 +47,7 @@ const Cursos =()=> {
   },
   {img: computerLogo,
     title: 'Comenzando un nuevo curso',
-    name: 'en breve...',
+    name: 'en breve.',
     description: 'Con muchas ganas de aprender :)'
   }
   ]
