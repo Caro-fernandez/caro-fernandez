@@ -29,8 +29,9 @@ export default function Proyectos() {
         className="proyecto-Swiper"
       >
         <SwiperSlide className='swiper-slide'>
-            <img src={Hello} className='proyecto-img' alt="Hello, escuela de inglés" />
+            <img src={Hello} className='proyecto-img' alt="Hello, escuela de inglés"/>
            </SwiperSlide>
+           <a href="https://caro-fernandez.github.io/hello-website/"></a>
         <SwiperSlide className='swiper-slide'>
              <img src={Compras} className='proyecto-img' alt="Tu lista de compras" />
            </SwiperSlide>

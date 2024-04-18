@@ -2,7 +2,7 @@
   "name": "carolina-fernandez-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://caro-fernandez.github.io/carolina-fernandez-cv/",
+  "homepage": "http://caro-fernandez.github.io/carolina-fernandez-cv/build",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@iconscout/react-unicons": "^2.0.2",
