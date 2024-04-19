@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/carolina-fernandez-cv/build/static/css/main.1fad3e01.css",
-    "main.js": "/carolina-fernandez-cv/build/static/js/main.8e82692a.js",
-    "static/media/foto1.png": "/carolina-fernandez-cv/build/static/media/foto1.972767131764ba202c67.png",
-    "static/media/compras.png": "/carolina-fernandez-cv/build/static/media/compras.0b8b989a222a0d696bf0.png",
-    "static/media/footer.jpg": "/carolina-fernandez-cv/build/static/media/footer.f8dd8b3baca8292938ae.jpg",
-    "static/media/hello.png": "/carolina-fernandez-cv/build/static/media/hello.a2fef8e040b3719e1d96.png",
-    "static/media/estudios.jpg": "/carolina-fernandez-cv/build/static/media/estudios.a86103d4851e07694c73.jpg",
-    "static/media/Pink-desk-with-computer.jpg": "/carolina-fernandez-cv/build/static/media/Pink-desk-with-computer.aaf7250d655d518e13e5.jpg",
-    "static/media/tare-app.png": "/carolina-fernandez-cv/build/static/media/tare-app.a775a042639e7a4d8872.png",
-    "static/media/monster-math.png": "/carolina-fernandez-cv/build/static/media/monster-math.f3e6176b4bd97b7ff601.png",
-    "static/media/logo.png": "/carolina-fernandez-cv/build/static/media/logo.ba93237360dd02b41484.png",
-    "static/media/telefonica.jpg": "/carolina-fernandez-cv/build/static/media/telefonica.7e0fd2520bcf9e84ecaa.jpg",
-    "index.html": "/carolina-fernandez-cv/build/index.html",
-    "main.1fad3e01.css.map": "/carolina-fernandez-cv/build/static/css/main.1fad3e01.css.map",
-    "main.8e82692a.js.map": "/carolina-fernandez-cv/build/static/js/main.8e82692a.js.map"
+    "main.css": "/caro-fernandez/static/css/main.ccb8dda0.css",
+    "main.js": "/caro-fernandez/static/js/main.6d58beea.js",
+    "static/media/foto1.png": "/caro-fernandez/static/media/foto1.972767131764ba202c67.png",
+    "static/media/compras.png": "/caro-fernandez/static/media/compras.0b8b989a222a0d696bf0.png",
+    "static/media/footer.jpg": "/caro-fernandez/static/media/footer.f8dd8b3baca8292938ae.jpg",
+    "static/media/hello.png": "/caro-fernandez/static/media/hello.a2fef8e040b3719e1d96.png",
+    "static/media/estudios.jpg": "/caro-fernandez/static/media/estudios.a86103d4851e07694c73.jpg",
+    "static/media/Pink-desk-with-computer.jpg": "/caro-fernandez/static/media/Pink-desk-with-computer.aaf7250d655d518e13e5.jpg",
+    "static/media/tare-app.png": "/caro-fernandez/static/media/tare-app.a775a042639e7a4d8872.png",
+    "static/media/monster-math.png": "/caro-fernandez/static/media/monster-math.f3e6176b4bd97b7ff601.png",
+    "static/media/logo.png": "/caro-fernandez/static/media/logo.ba93237360dd02b41484.png",
+    "static/media/telefonica.jpg": "/caro-fernandez/static/media/telefonica.7e0fd2520bcf9e84ecaa.jpg",
+    "index.html": "/caro-fernandez/index.html",
+    "main.ccb8dda0.css.map": "/caro-fernandez/static/css/main.ccb8dda0.css.map",
+    "main.6d58beea.js.map": "/caro-fernandez/static/js/main.6d58beea.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fad3e01.css",
-    "static/js/main.8e82692a.js"
+    "static/css/main.ccb8dda0.css",
+    "static/js/main.6d58beea.js"
   ]
 }
